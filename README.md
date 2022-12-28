@@ -8,20 +8,6 @@
 
 [Fundamentos de Arquitetura de Software](https://desenvolvedor.io/curso/633d37f3-f03f-40d4-a3b6-afd558ccf364)
 
-## Instrutor
-
-### Eduardo Pires
-
-Eduardo Pires é fundador da plataforma desenvolvedor.io, arquiteto e desenvolvedor de software, palestrante e instrutor de treinamentos.
-
-Foi reconhecido como Most Valuable Professional (MVP) pela Microsoft na competência de desenvolvimento de software de 2014 até 2020.
-
-Este reconhecimento é um prêmio internacional conferido pela Microsoft aos profissionais de maior destaque no mercado, existem cerca de 3.500 MVPs no mundo e 110 MVPs no Brasil, sendo 40 deles na competência de desenvolvimento de software.
-
-## Certificado
-
-[![certificado desenvolvedor.io](images/bcff02fe24b3bdd211d61084a7c6168fb2a96ab4ab3d1baa31961f00e916361d.png)](https://desenvolvedor.io/certificados/995ad2af-4695-4dd9-a267-1e18fc3087f4/validar)
-
 ## Progresso do Curso
 
 ### Introdução

@@ -120,11 +120,6 @@
 
 - [x] Palavras finais (6:00)
 
----
-
----
-
----
 
 ## **Anotações:**
 
@@ -243,7 +238,7 @@ You Ain't Gonna Need It
 - Implementing Domain Driven Design - *Vaugh Vernon*
 - Domain-Driven Design Distilled - *Vaughn Vernon*
 
----
+--
 
 ## Links
 
@@ -261,8 +256,3 @@ You Ain't Gonna Need It
 
 [07 - Catalogo Web de Design Patterns](https://www.dofactory.com/net/design-patterns)
 
----
-
----
-
----

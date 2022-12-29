@@ -99,7 +99,8 @@ namespace OOP
             repoH.Excluir(new Pessoa()); // Perigoso, pois a herança pode expor métodos que talvez não deveriam ser expostos.
 
             var repoC = new RepositorioComposicaoPessoa(new Repositorio<Pessoa>());
-            repoC.Adicionar(new Pessoa());
+            repoC.Adicionar(new Pessoa()); // Na composição é possível acessar apenas métodos que serão expostos de maneira que não corra risco de expor algo que não deveria.
+                                           // É aconselhado sempre a preferência pela composição em relação a herança
         }
     }
 

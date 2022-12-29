@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace OOP
 {
@@ -96,7 +96,7 @@ namespace OOP
         {
             var repoH = new RepositorioHerancaPessoa();
             repoH.Adicionar(new Pessoa());
-            repoH.Excluir(new Pessoa());
+            repoH.Excluir(new Pessoa()); // Perigoso, pois a herança pode expor métodos que talvez não deveriam ser expostos.
 
             var repoC = new RepositorioComposicaoPessoa(new Repositorio<Pessoa>());
             repoC.Adicionar(new Pessoa());
